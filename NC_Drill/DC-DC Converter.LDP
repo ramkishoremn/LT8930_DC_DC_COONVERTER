@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: c:\net\data\arkservice\079ee45b-1ae3-4019-97fb-efd2c0f21cd3\s\e\DC-DC Converter.CMPcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dc-dc converter-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dc-dc converter-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

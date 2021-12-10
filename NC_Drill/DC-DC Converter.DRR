@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC-DC Converter.CMPcbDoc   12/10/2021  3:24:18 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC-DC Converter-RoundHoles.TXT
+ASCII SlotHoles File : DC-DC Converter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             6         PTH        0.22inch (5.50mm)
+T2      15mil (0.381mm)                                           Round             118       PTH        22.42inch (569.51mm)
+T3      28mil (0.7mm)                                             Round             3         PTH        0.20inch (5.08mm)
+T4      43mil (1.1mm)                                             Round             4         PTH        0.40inch (10.16mm)
+T5      59mil (1.5mm)                                             Round             4         PTH        0.78inch (19.81mm)
+T6      79mil (2mm)                                               Slot              2         PTH        0.65inch (16.47mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              137
+
+Total Processing Time (hh:mm:ss) : 00:00:00
